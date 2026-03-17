@@ -1,5 +1,6 @@
 # Calculate24
 A tiny game demo for the classic math game calculate 24. The GUI interface is implemented using FLTK.
+
 There are three modes for the game.
 
 ## Calculate Mode
